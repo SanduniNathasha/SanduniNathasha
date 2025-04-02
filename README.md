@@ -26,7 +26,7 @@
 </p>
 <hr/>
  
- <h3 align="center">Github Stats</h3> 
+ <h3 align="center">Github Stats:</h3> 
   
  ![Sanduni's github stats](https://github-readme-stats.vercel.app/api?username=SanduniNathasha&show_icons=true&theme=tokyonight)
  ![Sanduni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNathasha&theme=tokyonight&layout=compact)
