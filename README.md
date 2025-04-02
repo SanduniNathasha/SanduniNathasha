@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning **React in Udemy**
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **CINEC**
 - 💬 Ask me about **React, JavaScript**
 - 📫 How to reach me **kanathashakuruppuarachchi2001@gmail.com**
   
